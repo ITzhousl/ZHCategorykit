@@ -1,0 +1,22 @@
+{
+  "name": "ZHCategorykit",
+  "version": "0.1.0",
+  "summary": "A short description of ZHCategorykit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Cash  zhou/ZHCategorykit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Cash  zhou": "1093290431@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/Cash  zhou/ZHCategorykit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ZHCategorykit/Classes/**/*"
+}
