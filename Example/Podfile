@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ZHCategorykit_Example' do
+  pod 'ZHCategorykit', :path => '../'
+
+  target 'ZHCategorykit_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
